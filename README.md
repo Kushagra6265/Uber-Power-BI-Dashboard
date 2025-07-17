@@ -39,11 +39,6 @@ This project analyzes Uber trip data using Power BI to uncover insights into boo
 ### Location Analysis
 - Identify the most frequent pickup and drop-off points, longest trips, top booking locations, and preferred vehicle types at each pickup location.
 
-## Additional Enhancements
-- **Data Details Bookmark**: Explain key metrics and data sources.
-- **Clear Slicer Button**: Quick reset for filters.
-- **Download Raw Data Button**: Export data in CSV or Excel format.
-
 ## Dashboard 2: Time Analysis
 - Analyze ride demand across time intervals to optimize operations and pricing.
 
