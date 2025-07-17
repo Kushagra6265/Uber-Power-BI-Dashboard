@@ -80,3 +80,12 @@ This project involves analyzing Uber trip data using Power BI to gain insights i
 
 ## Conclusion
 This project aims to provide comprehensive insights into Uber trip data, enabling stakeholders to make informed decisions based on data analysis.
+
+##Screenshots
+<img width="1309" height="734" alt="Screenshot 2025-07-17 222437" src="https://github.com/user-attachments/assets/0a60e5ac-ec1a-4366-8303-573a04a9065b" />
+<img width="1308" height="735" alt="Screenshot 2025-07-17 222500" src="https://github.com/user-attachments/assets/557e8f94-6d69-4acb-9184-c9df5389ef0e" />
+<img width="1299" height="736" alt="Screenshot 2025-07-17 222518" src="https://github.com/user-attachments/assets/1d4fc829-1c85-460e-acba-9abe8dd54c2f" />
+
+
+
+
